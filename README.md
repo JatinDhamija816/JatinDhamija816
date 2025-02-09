@@ -21,6 +21,6 @@ I'm a passionate **Full Stack Developer** with experience in **Node.js, Express.
 ### 📫 Connect with Me
 - LinkedIn: [Jatin Dhamija](https://www.linkedin.com/in/jatin-dhamija-971309252/)
 - GitHub: [JatinDhamija816](https://github.com/JatinDhamija816)
-- Email: [your-email@example.com](mailto:jatindhamija025@gmail.com)
+- Email: [jatindhamija025@gmail.com](mailto:jatindhamija025@gmail.com)
 
 ⚡ *Always open to collaboration and learning new technologies!*
